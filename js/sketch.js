@@ -1,6 +1,6 @@
 var boidColor = "#EAEAEA";
 
-var backgroundColors = ["#FF0043", "#0FF4C6", "#FF9F1C", "#001021", "#247BA0", "#FF0043"]
+var backgroundColors = ["#FF0043", "#0FF4C6", "#FF9F1C", "#001021", "#247BA0"]
 var currentIndex = 0;
 
 var flock;
